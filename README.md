@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm currently working on a 2D Game in Unity. I'm intrested in HTML/CSS/Java, Python, and C# programming. In my spare time (eg. when I'm nt doing homework or coding), I like to draw pixel art.
 
 <!--
 **LWGames423/lwgames423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
