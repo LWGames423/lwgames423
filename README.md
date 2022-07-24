@@ -1,8 +1,3 @@
-### Hi there 👋
-I'm currently working on a 2D Game in Unity. I'm intrested in HTML/CSS/Java, Python, and C# programming. In my spare time (eg. when I'm n0t doing homework or coding), I like to draw pixel art.
-
-If you really wanna talk to me, email me at lwgames0423@gmail.com (please don't email me)
-
 <!--
 **LWGames423/lwgames423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
